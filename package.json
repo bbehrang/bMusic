@@ -29,7 +29,6 @@
     "mkdirp": "*",
     "mongodb": "*",
     "mongoose": "*",
-    "morgan": "~*",
     "multer": "*",
     "multer-s3": "*",
     "passport": "*",
